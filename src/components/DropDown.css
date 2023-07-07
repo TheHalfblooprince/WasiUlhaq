@@ -1,0 +1,38 @@
+.Items
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Items > li >img
+{
+    padding-left: 1px;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+}
+.Items > li
+{
+    padding-top: 3px;
+    padding-bottom: 5px;
+    margin-bottom: 3px;
+    text-overflow: ellipsis;
+}
+.Items > li:hover
+{
+    color: #FFC72C;
+    text-overflow: ellipsis;
+}
+
+.itemBox
+{
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 100%;
+    white-space: 2px;
+    justify-content: center;
+    border-radius: 5px;
+}

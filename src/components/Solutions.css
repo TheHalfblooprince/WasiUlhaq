@@ -1,0 +1,39 @@
+.Solutions
+{
+    position: absolute;
+    top: 1550px;
+    margin-top: 15px;
+    height: 120%;
+    width: 1450px;
+    box-sizing: border-box;
+    border-color: #e5e7eb;
+    --tw-bg-opacity: 1;
+    background-color: rgb(252 252 252 / var(--tw-bg-opacity));
+    color: #393939;
+}
+.Heading_style
+{
+    font-style: normal;
+    padding: 1rem 0;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    position: absolute;
+    left: 575px;
+    top: 189px;
+}
+.Paragraph_Style
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    color: #7a7a7a;
+    position: absolute;
+    text-align: center;
+    left: 345px;
+    display: block;
+    word-spacing: normal;
+    top: 275px;
+
+}

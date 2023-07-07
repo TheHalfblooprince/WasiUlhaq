@@ -1,0 +1,203 @@
+.Usecases
+{
+    position: absolute;
+    top: 3500px;
+    display: flex;
+    width: 1450px;
+    height: 1000px;
+}
+.Heading
+{
+    color: #393939;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: absolute;
+    top: 25px;
+    left: 550px;
+}
+.Body
+{
+    top: 125px;
+    padding: 12px;
+}
+.ImgPackage
+{
+    border-radius: 9px;
+    display: inline;
+    vertical-align: middle;
+    width: 588px;
+    height: 478px;
+    padding: 0.5rem;
+    position: absolute;
+    top: 125px;
+    left: 45px;
+    margin-left: 25px;
+    padding-bottom: 20px;
+}
+.--ImgHeading
+{
+    position: absolute;
+    top: 600px;
+    left: 75px;
+    font-style: normal;
+    padding: 1rem 0;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    font-family: sans-serif;
+}
+.E-commerceInfo
+{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    margin: 0;
+    display: block;
+    position: absolute;
+    top: 700px;
+    left: 75px;
+
+
+    
+}
+.span
+{
+    position: absolute;
+    top: auto;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+    width: 30em;
+}
+
+.Link
+{
+    color: #ffc72c;
+    position: absolute;
+    top: 900px;
+    left: 75px;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.ImportsExports
+{
+    width: 256px;
+    height: 456.77px;
+    position: absolute;
+    top: 130px;
+    left: 700px;
+    border-radius: 9px;
+    margin-left: 15px;
+}
+.exports--image
+{
+    width: 160px;
+    height: 134px;
+}
+.exports--tag
+{
+    text-align: center;
+    width: 25px;
+    position: absolute;
+    top: 125px;
+}
+.exports--desc
+{
+    width: 30em;
+    display: -webkit-box;
+    max-width: 100%;
+    height: 70px;
+    line-height: 22px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: absolute;
+    top: 275px;
+    font-family: sans-serif;
+    color: #393939;
+}
+.exports--Link
+{
+    color: #ffc72c;
+    position: absolute;
+    left: 5px;
+    top: 400px;
+}
+.IntlTrade
+{
+    width: 256px;
+    height: 456.77px;
+    position: absolute;
+    top: 130px;
+    left: 1015px;
+    border-radius: 9px;
+    margin-left: 15px;
+}
+.trade--image
+{
+    width: 160px;
+    height: 134px;
+}
+.trade--tag
+{
+    text-align: center;
+    width: 25px;
+    position: absolute;
+    top: 125px;
+}
+.trade--desc
+{
+    width: 30em;
+    display: -webkit-box;
+    max-width: 100%;
+    height: 70px;
+    line-height: 22px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: absolute;
+    top: 275px;
+    font-family: sans-serif;
+    color: #393939;
+}
+.SupplyChainControl{
+
+    position: absolute;
+    top: 625px;
+    left: 700px;
+    width: 700px;
+    height: 300px;
+
+}
+.supply--image
+{
+    border-radius: 9px;
+}
+.supply--heading
+{
+    position: absolute;
+    top: 100px;
+    left: 315px;
+}
+.supply-text
+{
+    /* text-align: center; */
+    position: absolute;
+    top: 150px;
+    left: 310px;
+    font-family: sans-serif;
+    color: #393939;
+}
+.supply--Link
+{
+    color: #ffc72c;
+    position: absolute;
+    left: 320px;
+    top: 250px;
+    
+
+}

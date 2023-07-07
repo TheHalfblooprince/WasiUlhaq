@@ -1,0 +1,56 @@
+.SolutionChild_Cards
+{
+    width: 300px;
+    height: 270px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight:bold ;
+    position: relative;
+    top: 500px;
+    display: inline-block;
+    justify-content: space-between;
+    left: 100px;
+    /* border: 1px solid transparent;
+    border-radius: 9px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); */
+    margin-left: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-left: 35px;
+    color: #393939;
+}
+.Infotag
+{
+    color: #FFC72C;
+}
+.propsImage
+{
+    /* width: 195x;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 80px; */
+    position: absolute;
+    left: 70px;
+    top: 1;
+}
+.propsdesc
+{
+    position: absolute;
+    top: 160px;
+    left: 70px;
+    text-align: center;
+
+}
+.Infotag
+{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    text-align: center;
+    font-size: smaller;
+    font-style: none;
+    font-weight:none;
+
+}

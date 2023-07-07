@@ -1,0 +1,56 @@
+.NewsLetter
+{
+    position: absolute;
+    top: 5000px;
+    left: 1000px;
+    width: 500px;
+    height: 440px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(252 252 252 / var(--tw-bg-opacity));
+}
+.News--Heading
+{
+    position: absolute;
+    top: 125px;
+    color: #393939;
+}
+.inputFeild
+{
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #393939;
+    --tw-text-opacity: 1;
+    color: rgb(55 65 81 / var(--tw-text-opacity));
+    position: absolute;
+    top:  200px;
+}
+.News--Button
+{
+    position: absolute;
+    top: 225px;
+    border-bottom: 1 px solid #FFC72C;
+    color: #FFC72C;
+}
+.FacebookIcon
+{
+    position: absolute;
+    top: 285px;
+}
+.InstagramIcom
+{
+    position: absolute;
+    top: 285px;
+    left: 25px;
+}
+.TwitterIcon
+{
+    position: absolute;
+    top: 285px;
+    left: 50px;
+}
+.PinterestIcon
+{
+    position: absolute;
+    top: 285px;
+    left: 75px;;
+}

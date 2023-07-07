@@ -1,0 +1,40 @@
+.JoinUs
+{
+    position: absolute;
+    margin-top: 25px;
+    top: 4500px;
+    left: 300px;
+    width: 800px;
+    height: 310px;
+    background-color:#E8AD3A;
+}
+.JoinUs--Text
+{
+    display: block;
+    text-align: center;
+    --tw-text-opacity: 1;
+    color: rgb(252 252 252 / var(--tw-text-opacity));
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+}
+.Regbutton
+{
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 15px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    background-color: white;
+    color: #393939;
+    border-radius: 10px;
+    width: 200px;
+    border-color: #FFFF;
+    /* box-shadow: #E8AD3A; */
+
+}
